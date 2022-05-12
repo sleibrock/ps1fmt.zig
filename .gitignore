@@ -3,3 +3,6 @@ zig-build/
 zig-out/
 *.swp
 \#*\#
+*.zip
+*.tar.gz
+*.gzip
